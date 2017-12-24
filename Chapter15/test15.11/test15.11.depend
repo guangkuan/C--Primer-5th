@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1512100091 source:c:\工具\codeblocks\test\test15.11\main.cpp
+	<iostream>
+	"Quote.h"
+
+1512101907 c:\工具\codeblocks\test\test15.11\quote.h
+	<string>
+

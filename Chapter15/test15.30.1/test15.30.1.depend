@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1512223000 source:c:\工具\codeblocks\test\test15.30.1\main.cpp
+	<iostream>
+	"Quote.h"
+	"Basket.h"
+
+1512223563 c:\工具\codeblocks\test\test15.30.1\quote.h
+	<iostream>
+	<string>
+
+1512223077 c:\工具\codeblocks\test\test15.30.1\basket.h
+	<set>
+	<memory>
+	<utility>
+	"Quote.h"
+

@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1512222239 source:c:\工具\codeblocks\test\test15.30\main.cpp
+	<iostream>
+	<vector>
+	<memory>
+	"Bulk_quote.h"
+	"Basket.h"
+
+1512222686 c:\工具\codeblocks\test\test15.30\basket.h
+	<iostream>
+	<set>
+	<memory>
+	<utility>
+	"Quote.h"
+	"Bulk_quote.h"
+
+1512222686 c:\工具\codeblocks\test\test15.30\quote.h
+	<cstddef>
+	<iostream>
+	<string>
+	<utility>
+
+1512222686 c:\工具\codeblocks\test\test15.30\bulk_quote.h
+	<cstddef>
+	<iostream>
+	<string>
+	"Disc_quote.h"
+
+1512222686 c:\工具\codeblocks\test\test15.30\disc_quote.h
+	<cstddef>
+	<iostream>
+	<string>
+	<utility>
+	"Quote.h"
+

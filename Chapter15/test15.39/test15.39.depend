@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1512220057 source:c:\工具\codeblocks\test\test15.39\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<cstdlib>
+	"my_TextQuery.h"
+	"my_Query_base.h"
+
+1512216986 c:\工具\codeblocks\test\test15.39\my_textquery.h
+	<memory>
+	<map>
+	<vector>
+	<string>
+	<set>
+	<fstream>
+	"my_QueryResult.h"
+
+1512218675 c:\工具\codeblocks\test\test15.39\my_queryresult.h
+	<iostream>
+	<memory>
+	<string>
+	<vector>
+	<set>
+	"my_StrBlob.h"
+
+1512199404 c:\工具\codeblocks\test\test15.39\my_strblob.h
+	<vector>
+	<string>
+	<initializer_list>
+	<memory>
+	<stdexcept>
+
+1512216893 source:c:\工具\codeblocks\test\test15.39\my_textquery.cpp
+	"my_TextQuery.h"
+	<cstddef>
+	<memory>
+	<sstream>
+	<string>
+	<vector>
+	<map>
+	<set>
+	<iostream>
+	<fstream>
+	<cctype>
+	<cstring>
+	<utility>
+	<string>
+
+1512220431 c:\工具\codeblocks\test\test15.39\my_query_base.h
+	<iostream>
+	<memory>
+	<algorithm>
+	"my_TextQuery.h"
+	"my_QueryResult.h"
+

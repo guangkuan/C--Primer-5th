@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1512115980 source:c:\工具\codeblocks\test\test15.14\main.cpp
+	<iostream>
+	"base.h"
+
+1512116051 c:\工具\codeblocks\test\test15.14\base.h
+	<iostream>
+
