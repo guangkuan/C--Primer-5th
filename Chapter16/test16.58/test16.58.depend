@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1514117759 source:c:\工具\codeblocks\test\test16.58\main.cpp
+	<iostream>
+	<string>
+	<memory>
+	<utility>
+	<algorithm>
+	<initializer_list>
+	"my_StrVec.h"
+
+1514117358 c:\工具\codeblocks\test\test16.58\my_strvec.h
+	<iostream>
+	<string>
+	<memory>
+

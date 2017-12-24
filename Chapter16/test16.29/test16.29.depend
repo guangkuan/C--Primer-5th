@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1513912169 source:c:\工具\codeblocks\test\test16.29\main.cpp
+	<iostream>
+	<string>
+	"sp_Blob.h"
+
+1513914528 c:\工具\codeblocks\test\test16.29\sp_blob.h
+	<string>
+	<vector>
+	<initializer_list>
+	<utility>
+	<stdexcept>
+	"my_shared_ptr.h"
+	"my_unique_ptr.h"
+
+1513911196 c:\工具\codeblocks\test\test16.29\my_shared_ptr.h
+	<iostream>
+
+1513912131 c:\工具\codeblocks\test\test16.29\my_unique_ptr.h
+	<iostream>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1513821847 source:c:\工具\codeblocks\test\test16.16\main.cpp
+	<iostream>
+	<string>
+	"Vec.h"
+
+1513821769 c:\工具\codeblocks\test\test16.16\vec.h
+	<string>
+	<memory>
+	<utility>
+	<algorithm>
+	<initializer_list>
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1513739207 source:c:\工具\codeblocks\test\test16.14\main.cpp
+	<iostream>
+	"tScreen.h"
+	<string>
+
+1513741650 c:\工具\codeblocks\test\test16.14\tscreen.h
+	<string>
+	<iostream>
+

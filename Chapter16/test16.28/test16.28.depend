@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1513907592 source:c:\工具\codeblocks\test\test16.28\main.cpp
+	<iostream>
+	"my_shared_ptr.h"
+	"my_unique_ptr.h"
+
+1513907569 c:\工具\codeblocks\test\test16.28\my_shared_ptr.h
+	<iostream>
+
+1513908440 c:\工具\codeblocks\test\test16.28\my_unique_ptr.h
+	<iostream>
+

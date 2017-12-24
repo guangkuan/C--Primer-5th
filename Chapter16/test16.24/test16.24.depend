@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1513902436 source:c:\工具\codeblocks\test\test16.24\main.cpp
+	<iostream>
+	<vector>
+	<list>
+	<iterator>
+	"Blob.h"
+	"BlobPtr.h"
+
+1513912020 c:\工具\codeblocks\test\test16.24\blob.h
+	<string>
+	<vector>
+	<initializer_list>
+	<memory>
+	<utility>
+	<stdexcept>
+
+1513901840 c:\工具\codeblocks\test\test16.24\blobptr.h
+	"Blob.h"
+	<string>
+	<vector>
+	<memory>
+	<utility>
+	<stdexcept>
+

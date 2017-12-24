@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1513737313 source:c:\工具\codeblocks\test\test16.14.1\main.cpp
+	<iostream>
+	"Exer16_14_15_Screen.h"
+
+1513738034 c:\工具\codeblocks\test\test16.14.1\exer16_14_15_screen.h
+	<iostream>
+	<string>
+	<vector>
+
