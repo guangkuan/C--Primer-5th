@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1514423524 source:c:\工具\codeblocks\test\test17.04\main.cpp
+	"Sales_data.h"
+	<iostream>
+	<tuple>
+	<vector>
+	<algorithm>
+	<numeric>
+	<fstream>
+	<cassert>
+
+1514422054 c:\工具\codeblocks\test\test17.04\sales_data.h
+	<string>
+	<iostream>
+
+1514421314 source:c:\工具\codeblocks\test\test17.04\sales_data.cpp
+	<iostream>
+	"Sales_data.h"
+

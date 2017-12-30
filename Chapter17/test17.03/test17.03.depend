@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1514364412 source:c:\工具\codeblocks\test\test17.03\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"my_TextQuery.h"
+
+1514367031 c:\工具\codeblocks\test\test17.03\my_textquery.h
+	<iostream>
+	<vector>
+	<fstream>
+	<set>
+	<memory>
+	<map>
+	<tuple>
+
+1514365136 c:\工具\codeblocks\test\test17.03\my_queryresult.h
+	<memory>
+	<string>
+	<vector>
+	<set>
+
+1514364975 source:c:\工具\codeblocks\test\test17.03\my_textquery.cpp
+	"my_TextQuery.h"
+	<fstream>
+	<vector>
+	<string>
+	<set>
+	<algorithm>
+	<sstream>
+

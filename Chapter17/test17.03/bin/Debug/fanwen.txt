@@ -1,0 +1,24 @@
+Primitive forms of data networks have a long history, including the smoke signals used
+by primitive societies, and certainly including nineteenth-century telegraphy. The messages
+in these systems were first manually encoded into strings of essentially binary
+symbols, and then manually transmitted and received. Where necessary, the messages
+were manually relayed at intermediate points.
+A major development, in the early 1950s, was the use of communication links
+to connect central computers to remote terminals and other peripheral devices, such as
+printers and remote job entry points (RIEs) (see Fig. 1.1). The number of such peripheral
+devices expanded rapidly in the 1960s with the development of time-shared computer
+systems and with the increasing power of central computers. With the proliferation of
+remote peripheral devices, it became uneconomical to provide a separate long-distance
+communication link to each peripheral. Remote multiplexers or concentrators were developed
+to collect all the traffic from a set of peripherals in the same area and to send
+it on a single link to the central processor. Finally, to free the central processor from
+handling all this communication, special processors called front ends were developed to
+control the communication to and from all the peripherals. This led to the more complex
+structure shown in Fig. 1.2. The communication is automated in such systems, in
+contrast to telegraphy, for example, but the control of the communication is centrally
+exercised at the computer. While it is perfectly appropriate and widely accepted to refer
+to such a system as a data network or computer communication network, it is simpler
+to view it as a computer with remote peripherals. Many of the interesting problems
+associated with data networks, such as the distributed control of the system, the relaying
+of messages over multiple communication links, and the sharing of communication links
+between many users and processes, do not arise in these centralized systems.
