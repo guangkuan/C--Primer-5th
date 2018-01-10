@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1515409350 source:c:\工具\codeblocks\test\test18.09\main.cpp
+	"Sales_data.h"
+	<stdexcept>
+
+1515408396 c:\工具\codeblocks\test\test18.09\sales_data.h
+	<string>
+	<iostream>
+
