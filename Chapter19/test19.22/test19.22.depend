@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1515989418 source:c:\工具\codeblocks\test\test19.22\sales_data.cpp
+	"Sales_data.h"
+
+1515989381 c:\工具\codeblocks\test\test19.22\sales_data.h
+	<string>
+	<iostream>
+
+1515995426 source:c:\工具\codeblocks\test\test19.22\main.cpp
+	<iostream>
+	"Sales_data.h"
+	"Token.h"
+
+1515995068 c:\工具\codeblocks\test\test19.22\token.h
+	"Sales_data.h"
+
+1515995107 source:c:\工具\codeblocks\test\test19.22\token.cpp
+	"Token.h"
+
